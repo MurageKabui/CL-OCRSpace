@@ -1,5 +1,9 @@
 
 # CL-OCRSpace
+
+ <img src="https://i.imgur.com/iKrkHYn.png" align="middle" alt="preview.gif">
+
+ 
 `CL-OCRSpace`is [OCRSpace API](https://ocr.space/) on the command line. 
 <!-- <br> It will let you automate scanning images of text and PDFs right from your terminal,  -->
 
